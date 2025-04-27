@@ -36,7 +36,6 @@ _Table expands as new modules are released. **Watch/Star** to stay updated!_
 
 ## 🚀 Getting Started
 
-```bash
 # 1. Clone the repository
 git clone https://github.com/ialwayslikedgrime/nlp-journey-zero-to-hero.git
 cd nlp-journey-zero-to-hero
@@ -51,9 +50,9 @@ pip install -r requirements.txt
 # 4. Launch Jupyter
 jupyter notebook
 
-
-
 ---
+
+
 
 ## 🔥 Why Learn NLP?
 
