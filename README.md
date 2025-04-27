@@ -39,7 +39,7 @@ _Table will be updated as new modules are released._
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nlp-journey-zero-to-hero.git
+git clone https://github.com/ialwayslikedgrime/nlp-journey-zero-to-hero.git
 cd nlp-journey-zero-to-hero
 
 # Create a virtual environment
