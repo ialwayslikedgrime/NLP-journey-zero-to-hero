@@ -5,7 +5,7 @@ Learn Natural Language Processing (NLP) from scratch – a complete, hands-on cu
 > **🚧 WORK IN PROGRESS** — Adding new content weekly! **Star ⭐** or **Fork 🍴** to stay updated on this journey!
 
 ![NLP Banner](https://img.shields.io/badge/NLP-Zero_to_Hero-blue?style=for-the-badge) 
-![Python](https://img.shields.io/badge/Python-3.8+-green?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10.2-green?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square)
 
