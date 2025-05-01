@@ -19,23 +19,13 @@ This isn't just another tutorial collection—it's a **complete educational jour
 - **Structured curriculum** developed by a CS student specializing in AI
 - **Project-oriented approach** with exercises to reinforce each concept
 
-
 ## 🗺️ Learning Path Overview PRESENT TODAY (IN PROGRESS)
 
-| notebook | Module | Content |
-|------:|--------|---------|
-| **01** | **NGRAM** |
-| **02** | **Lexical Semantics** | Lexical Semantics • Word Meaning in NLP •
-Lemmas & Word Senses • Base Forms and Polysemy •
-Word Sense Disambiguation • Context-Based Meaning Resolution •
-Synonymy • Words with Similar Meanings •
-Word Similarity vs. Relatedness • Semantic vs. Contextual Links |
-| **03** | **Vector Semantics** | Vector Semantics • Word Meaning as Vectors •
-Sparse vs. Dense Representations • From One-Hot to Word2Vec •
-Co-occurrence & TF-IDF • Counting and Weighting Word Usage •
-PPMI • Capturing Meaningful Word Associations •
-Word2Vec • Learning Embeddings via Neural Prediction •|
-
+| Notebook | Module               | Content                                                                                                                                                                                                                                                                                                                    |
+|:--------:|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **01**   | **NGRAM**            |                                                                                                                                                                                                                                                                                                                            |
+| **02**   | **Lexical Semantics**| Lexical Semantics • Word Meaning in NLP •<br>Lemmas & Word Senses • Base Forms and Polysemy •<br>Word Sense Disambiguation • Context-Based Meaning Resolution •<br>Synonymy • Words with Similar Meanings •<br>Word Similarity vs. Relatedness • Semantic vs. Contextual Links •                                                    |
+| **03**   | **Vector Semantics** | Vector Semantics • Word Meaning as Vectors •<br>Sparse vs. Dense Representations • From One-Hot to Word2Vec •<br>Co-occurrence & TF-IDF • Counting and Weighting Word Usage •<br>PPMI • Capturing Meaningful Word Associations •<br>Word2Vec • Learning Embeddings via Neural Prediction •                                        |
 
 
 ## 🗺️ Learning Path Overview GOAL (IN PROGRESS)
