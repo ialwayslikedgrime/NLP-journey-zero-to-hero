@@ -19,12 +19,27 @@ This isn't just another tutorial collection—it's a **complete educational jour
 - **Structured curriculum** developed by a CS student specializing in AI
 - **Project-oriented approach** with exercises to reinforce each concept
 
-## 🗺️ Learning Path Overview
+
+## 🗺️ Learning Path Overview PRESENT TODAY (IN PROGRESS)
+
+| notebook | Module | Content |
+|------:|--------|---------|
+| **01** | **NGRAM** |
+| **02** | **Lexical Semantics** | Lexical Semantics • Word Meaning in NLP •
+Lemmas & Word Senses • Base Forms and Polysemy •
+Word Sense Disambiguation • Context-Based Meaning Resolution •
+Synonymy • Words with Similar Meanings •
+Word Similarity vs. Relatedness • Semantic vs. Contextual Links |
+| **03** | **Vector Semantics** | Vectors Semantics •  Words as Embeddings •   |
+
+
+
+## 🗺️ Learning Path Overview GOAL (IN PROGRESS)
 
 | Level | Module | Content |
 |------:|--------|---------|
-| **0** | **Intro to NLP** | What is NLP? • Applications • Environment Setup |
-| **1** | **Text Pre-processing** | Tokenization • Stopwords • Stemming/Lemmatization |
+| **0** | **Intro to NLP** | What is NLP? • Applications • Environment Setup | in profress
+| **1** | **Text Pre-processing** | Tokenization • Stopwords • Stemming/Lemmatization | in
 | **2** | **Classical ML for NLP** | Bag-of-Words • TF-IDF • Naïve Bayes • Sentiment Analysis |
 | **3** | **Word Embeddings** | Word2Vec • GloVe • FastText • Semantic Similarity |
 | **4** | **Deep Learning for NLP** | RNN • LSTM • GRU • Text Classification |
