@@ -30,7 +30,11 @@ Lemmas & Word Senses • Base Forms and Polysemy •
 Word Sense Disambiguation • Context-Based Meaning Resolution •
 Synonymy • Words with Similar Meanings •
 Word Similarity vs. Relatedness • Semantic vs. Contextual Links |
-| **03** | **Vector Semantics** | Vectors Semantics •  Words as Embeddings •   |
+| **03** | **Vector Semantics** | Vector Semantics • Word Meaning as Vectors •
+Sparse vs. Dense Representations • From One-Hot to Word2Vec •
+Co-occurrence & TF-IDF • Counting and Weighting Word Usage •
+PPMI • Capturing Meaningful Word Associations •
+Word2Vec • Learning Embeddings via Neural Prediction •|
 
 
 
