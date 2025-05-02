@@ -39,6 +39,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 murmurhash==1.0.12
 nest-asyncio==1.6.0
+networkx==3.4.2
 nltk==3.9.1
 numpy==1.26.4
 packaging==25.0
