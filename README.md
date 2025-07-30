@@ -1,5 +1,37 @@
 # NLP Journey: Zero to Hero 🚀
 
+Alan Turing could have used a lot of different things to measure intelligence and propose its infamous "Turing Test". Identifying objects, etc
+Yet he chose LANGUAGE. Language is the basics of humanity. Many historical academics  (studiosi) often say that the reason our species evolved, compared to other animal species, is thanks to the developing of language.
+
+Clearly, some idles (idoli) of this sector , such as Andrej Kharpathy (here, link) would say that talking to each other is so unproductive and we should be able to use telepathy. Well, maybe it is true.
+
+Yet, NLP was maybe one of the main branch , if not the main branch that had such a huge breakthrough in these years, since the (uscita) of the paper "Attention is All You Need" from Google. Since then, everything was a cascade: from Bert, to GPTs . it was such a huge moment for AI and GenAI as we know it today.
+
+NLP is particularly important for building advanced techniques that are revolutionizing businesses today. from advanced RAGs able to talk to documents, Agentic AI. but also The emerging field of Reinforcement Learning. If you think about it, this world is built thinking about the fact that humans are ready to read and talk. think about the reinforcement learning needed for an agent to be able to book a flight . If NLP was not available, he would have to try every single button (randomly) in its desktop. What if NLP is available instead ? The agent would not be guessing randomly, with an infinite amount of pixels to click on randomly, but he would rather be more intentional in his trying. In fact, agentic AI is developing also thank to all of this.
+
+
+The goal of this repo is guiding you from the basics, necessary to get into the evolution of NLP until today transformers. but also:
+- learning fine-tuning
+- learning RAG
+- learning how to build AI agents
+
+all in a single repo
+that I felt necessary since the resources regarding this topic felt very scattered to me.
+
+if it helped you or want to come back,
+don't forget to star the project !
+
+and feel free to leave a feedback via mail to ialwayslikedgrime@gmail.com
+
+with immense love,
+
+                ialwayslikedgrime
+
+
+
+
+
+
 Learn Natural Language Processing (NLP) from scratch – a complete, hands-on curriculum that takes you from beginner to advanced. Built with ⚡ **interactive Jupyter Notebooks** combining solid theory, rigorous math, and production-ready Python code you can plug straight into real-world projects.
 
 > **🚧 WORK IN PROGRESS** — Adding new content weekly! **Star ⭐** or **Fork 🍴** to stay updated on this journey!
@@ -77,17 +109,6 @@ Natural Language Processing is at the heart of today's most exciting AI innovati
 
 Mastering NLP unlocks incredible career opportunities in AI, Data Science, and Software Engineering!
 
-## 👨‍💻 About Me
-
-I'm a Computer Science student with a deep passion for AI and a background in Finance. I believe in understanding both the theory and practical applications of technology—because yes, this knowledge can make you money!
-
-This repository documents my own learning journey from basics to cutting-edge NLP, structured the way I'm learning it through my university program. I'm making it public because:
-
-1. Learning publicly builds community and multiplies growth
-2. Many NLP resources are scattered or too theoretical without practical implementation
-3. I want to create the resource I wish existed when I started
-
-> "Strong foundations in understanding, even in things that may seem basic, is what guarantees full comprehension of more complex topics."
 
 ## 🤝 Contributing
 
