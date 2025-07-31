@@ -1,29 +1,25 @@
 # NLP Journey: Zero to Hero 🚀
 
-Alan Turing could have used a lot of different things to measure intelligence and propose its infamous "Turing Test". Identifying objects, etc
-Yet he chose LANGUAGE. Language is the basics of humanity. Many historical academics  (studiosi) often say that the reason our species evolved, compared to other animal species, is thanks to the developing of language.
+Alan Turing could have used many different things to measure intelligence and propose his infamous "Turing Test"—identifying objects, etc. Yet he chose LANGUAGE. Language is the foundation of humanity. Many historical academics (scholars) often say that the reason our species evolved, compared to other animal species, is thanks to the development of language.
 
-Clearly, some idles (idoli) of this sector , such as Andrej Kharpathy (here, link) would say that talking to each other is so unproductive and we should be able to use telepathy. Well, maybe it is true.
+Clearly, some icons of this sector, such as Andrej Karpathy (here, link) would say that talking to each other is so unproductive and we should be able to use telepathy. Well, maybe it is true.
 
-Yet, NLP was maybe one of the main branch , if not the main branch that had such a huge breakthrough in these years, since the (uscita) of the paper "Attention is All You Need" from Google. Since then, everything was a cascade: from Bert, to GPTs . it was such a huge moment for AI and GenAI as we know it today.
+Yet, NLP was perhaps one of the main branches, if not the main branch, that had such a huge breakthrough in these years, since the release of the paper "Attention is All You Need" from Google. Since then, everything was a cascade: from BERT to GPTs. It was such a huge moment for AI and GenAI as we know it today.
 
-NLP is particularly important for building advanced techniques that are revolutionizing businesses today. from advanced RAGs able to talk to documents, Agentic AI. but also The emerging field of Reinforcement Learning. If you think about it, this world is built thinking about the fact that humans are ready to read and talk. think about the reinforcement learning needed for an agent to be able to book a flight . If NLP was not available, he would have to try every single button (randomly) in its desktop. What if NLP is available instead ? The agent would not be guessing randomly, with an infinite amount of pixels to click on randomly, but he would rather be more intentional in his trying. In fact, agentic AI is developing also thank to all of this.
+NLP is particularly important for building advanced techniques that are revolutionizing businesses today—from advanced RAGs able to talk to documents to Agentic AI, but also the emerging field of Reinforcement Learning. If you think about it, this world is built on the assumption that humans are ready to read and talk. Think about the reinforcement learning needed for an agent to be able to book a flight. If NLP was not available, it would have to try every single button randomly on its desktop. What if NLP is available instead? The agent would not be guessing randomly, with an infinite amount of pixels to click on randomly, but would rather be more intentional in its attempts. In fact, agentic AI is developing thanks to all of this.
 
-
-The goal of this repo is guiding you from the basics, necessary to get into the evolution of NLP until today transformers. but also:
+The goal of this repo is guiding you from the basics necessary to get into the evolution of NLP until today's transformers, but also:
 - learning fine-tuning
 - learning RAG
 - learning how to build AI agents
 
-all in a single repo
-that I felt necessary since the resources regarding this topic felt very scattered to me.
+All in a single repo that I felt necessary since the resources regarding this topic felt very scattered to me.
 
-if it helped you or want to come back,
-don't forget to star the project !
+If it helped you or you want to come back, don't forget to star the project!
 
-and feel free to leave a feedback via mail to ialwayslikedgrime@gmail.com
+And feel free to leave feedback via email to ialwayslikedgrime@gmail.com
 
-with immense love,
+With immense love,
 
                 ialwayslikedgrime
 
